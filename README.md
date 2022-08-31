@@ -1,4 +1,4 @@
-# React Weather App - ReactJS Projects
+# React Weather App - GetWeather
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
