@@ -1,5 +1,7 @@
 # React Weather App - GetWeather
 
+This is a basic React App. When the user enters a city, It fetches the informations about the weather of that city from the API and shows the report along with some other information to the user.
+
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
